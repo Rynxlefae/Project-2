@@ -14,8 +14,8 @@ function preload() {
 }
 
 function setup() {
-  canvas.parent("project")
   createCanvas(850, 480);
+  canvas.parent("project")
 }
 
 function draw() {
